@@ -1,6 +1,6 @@
 # Data-Science-Project
 
-# SMA Team
+## SMA Team
 
 ## Students Name, ID:
 - Mohammad Rjoub 1220929
